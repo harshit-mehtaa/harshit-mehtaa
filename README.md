@@ -18,24 +18,19 @@ Here are some ideas to get you started:
 
 ### Hi There! 👋, I am Harshit Mehta
 
-I am software engineer / fullstack from India.
+I am software engineer and an open source enthusiast from India.
 
+<br>
 
-
-## 🙋‍♂️ About Me
-
+### 🙋‍♂️ About Me
 - 🔭 I’m currently working as a **Senior Systems Software Engineer** at [NVIDIA](https://www.nvidia.com/)
-
 - 🌱 I’m currently diving deep into **[Kubernetes](https://kubernetes.io/)** and **[Golang](https://go.dev/)**
-
 - 👯 I’m looking to collaborate on project related to **Kubernetes**, **Helm** and **Cloud**
+- 📫 You can drop me an email on **[hdm23061993@gmail.com](mailto:hdm23061993@gmail.com)**
 
-- 📫 You can drop me an email on **hdm23061993@gmail.com**
+<br>
 
-
-
-
-## 📊 My Github Stats
+### 📊 My Github Stats
 <a href="https://github.com/hdm23061993/github-readme-streak-stats">
   <img title="Harshit's streak" alt="Harshit's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hdm23061993&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </a>
@@ -51,9 +46,9 @@ I am software engineer / fullstack from India.
   <img alt="Harshit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hdm23061993&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 </a>
 
+<br>
 
-
-## Connect with me:
+#### 🔗Connect with me
 <p align="left">
   <a href = "https://www.linkedin.com/in/harshit-mehtaa">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
@@ -68,7 +63,7 @@ I am software engineer / fullstack from India.
 
 
 
-## ❤ Views and Followers
+#### ❤ Views and Followers
 <p align="left">
   <a href="https://github.com/hdm23061993/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=hdm23061993">
