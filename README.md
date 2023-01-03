@@ -42,8 +42,13 @@ I am software engineer / fullstack from India.
 <a href="https://github.com/hdm23061993/github-readme-stats">
   <img title="Harshit's Github Stat" alt="Harshit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hdm23061993&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
+<br>
+<br>
 <a href="https://github.com/hdm23061993/github-readme-stats">
   <img title="Harshit's Top Languages" alt="Harshit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdm23061993&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+</a>
+<a href="https://github.com/hdm23061993/github-readme-activity-graph">
+  <img alt="Harshit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hdm23061993&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 </a>
 
 
