@@ -46,9 +46,9 @@ I am software engineer and an open source enthusiast from India.
   <img alt="Harshit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hdm23061993&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 </a>
 
-<br>
+<br><br>
 
-#### 🔗Connect with me
+### 🔗Connect with me
 <p align="left">
   <a href = "https://www.linkedin.com/in/harshit-mehtaa">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
@@ -61,9 +61,9 @@ I am software engineer and an open source enthusiast from India.
   </a>
 </p>
 
+<br>
 
-
-#### ❤ Views and Followers
+### ❤ Views and Followers
 <p align="left">
   <a href="https://github.com/hdm23061993/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=hdm23061993">
